@@ -2,8 +2,9 @@
 
 ## Artigo técnico gerado por I.A
 
-[IMAGENS]() e conteúdo gerados por I.A. Imagens editadas no Google Slides.
-Leia o [ARTIGO]() aqui.
+[IMAGENS](https://github.com/Ana00Sara/Artigo-tecnico-gerado-por-I.A/blob/main/assets.md) e conteúdo gerados por I.A. Imagens editadas no Google Slides.
+Leia o [ARTIGO](https://github.com/Ana00Sara/Artigo-tecnico-gerado-por-I.A/blob/main/artigo.md
+) aqui.
 
 ## Tecnologias utilizadas
 
